@@ -1,3 +1,4 @@
+const isChrome = navigator.userAgent.indexOf('Chrome') != -1;
 function VALVE(pipe = () => {}, interval) {
   let executed = false;
 
@@ -63,12 +64,12 @@ const TAB_FOCUS_KEY_DOWN = (() => {
     if (!handleScroll) return;
     if (!elActive) return;
     //elActive.style.backgroundColor = "red";
-
+    
     elActive.addEventListener("focus", autoScroll, { once: true });
     if (focus) elActive.focus();
 
     function autoScroll() {
-
+      if(isChrome)return;
       let height = window.innerHeight;
       let dist = elActive.getBoundingClientRect();
       let newDist;
