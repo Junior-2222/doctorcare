@@ -266,6 +266,6 @@ function activeMenuAtCurrentSection(sections = []) {
 }
 
 function changeColorPage(){
-  document.querySelector(':root').style.setProperty('--primary-color', `hsl(${Math.random()*360}, 100%, 26%)`);
+  document.querySelector(':root').style.setProperty('--hue', Math.random()*360);
   
 }
