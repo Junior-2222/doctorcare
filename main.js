@@ -1,3 +1,4 @@
+const navigation = document.getElementById('navigation');
 const isChrome = navigator.userAgent.indexOf('Chrome') != -1;
 function VALVE(pipe = () => {}, interval) {
   let executed = false;
