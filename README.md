@@ -1,5 +1,5 @@
 ###### 🎟️🎉 Feito em um [***evento da Rocketseat 💜🚀***](https://www.youtube.com/watch?v=-C6YkuKAF1c) 
-# Doctorcare [**`📄 Ir à página`**](https://junior-2222.github.io/doctorcare/)
+# Doctorcare [**`📄Ir-à-página`**](https://junior-2222.github.io/doctorcare/)
 ## 🔥 Indo além do evento 🧗:
 ### 💡 Decidi ***não usar bibliotecas*** (ao contrário do evento), pois queria explorar a programação funcional :
   - Separei responsabilidades por escopos (e ficou um belo monólito 🤓).
@@ -17,7 +17,7 @@
 ---
 ---
 ###### 🎟️🎉 Made at a [***Rocketseat event 💜🚀***](https://www.youtube.com/watch?v=-C6YkuKAF1c) 
-# Doctorcare [**`📄 Go to page`**](https://junior-2222.github.io/doctorcare/)
+# Doctorcare [**`📄Go-to-page`**](https://junior-2222.github.io/doctorcare/)
 ## 🔥 Going beyond the event 🧗:
 ### 💡 I decided to ***not use libraries*** (unlike the event), as I wanted to explore functional programming:
   - I separated responsibilities by scopes (and it was a beautiful monolith 🤓).
